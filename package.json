@@ -1,0 +1,23 @@
+{
+  "name": "emailer",
+  "version": "1.0.0",
+  "description": "Playing around with SendGrid - Sending emails and such.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smorris022/Emailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smorris022/Emailer/issues"
+  },
+  "homepage": "https://github.com/Smorris022/Emailer#readme",
+  "dependencies": {
+    "e": "^0.2.0",
+    "express": "^4.17.1"
+  }
+}
